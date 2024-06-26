@@ -407,10 +407,6 @@ const Home = () => {
               <div className="agile__list">
                 <div
                   className="agile__track"
-                  style={{
-                          transform: "translate(0px)",
-                          transition: "transform ease 0ms"
-                  }}
                 >
                   <div className="agile__slides agile__slides--regular">
                     <ArtistSlider />
@@ -432,10 +428,6 @@ const Home = () => {
               <div className="agile__list">
                 <div
                   className="agile__track"
-                  style={{
-                          transform: "translate(0px)",
-                          transition: "transform ease 0ms"
-                        }}
                 >
                   <MusicSlider />
                 </div>

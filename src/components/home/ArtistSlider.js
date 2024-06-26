@@ -116,6 +116,8 @@ const ArtistSlider = () => {
         showThumbs={false}
         showStatus={false}
         showIndicators={false}
+        centerSlidePercentage={100}
+        centerMode={true}
         swipeable={true}
       >
         {slides}

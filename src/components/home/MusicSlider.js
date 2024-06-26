@@ -34,7 +34,6 @@ const MusicSlider = () => {
   const slides = items.map((item) => (
     <div
       key={item.id}
-      style={{ margin: `0 ${slideMargin}px` }}
       className="carousel-cell"
       data-v-e0a7b2ea
     >
@@ -74,7 +73,7 @@ const MusicSlider = () => {
     </div>
   ));
   return (
-    <div>
+    <div style={{width: "100%"}} >
       <Carousel
         showArrows={false}
         autoPlay={true}
