@@ -1,48 +1,8 @@
 import React from 'react';
+import { MUSIC_DATA } from '../../data/Music';
 
 const ProductList = () => {
-    const items = [
-        {
-          id: 1,
-          image: "https://admin.terracemedia.co/storage/app/media/music/cậu cả.jpg",
-          name: "Cậu Cả",
-          artist: "XAVI Phạm",
-          url: "/san-pham/cau-ca",
-          artist_url: "/nghe-si",
-        },
-        {
-            id: 1,
-            image: "https://admin.terracemedia.co/storage/app/media/music/cậu cả.jpg",
-            name: "Cậu Cả",
-            artist: "XAVI Phạm",
-            url: "/san-pham/cau-ca",
-            artist_url: "/nghe-si",
-          },
-          {
-            id: 1,
-            image: "https://admin.terracemedia.co/storage/app/media/music/cậu cả.jpg",
-            name: "Cậu Cả",
-            artist: "XAVI Phạm",
-            url: "/san-pham/cau-ca",
-            artist_url: "/nghe-si",
-          },
-          {
-            id: 1,
-            image: "https://admin.terracemedia.co/storage/app/media/music/cậu cả.jpg",
-            name: "Cậu Cả",
-            artist: "XAVI Phạm",
-            url: "/san-pham/cau-ca",
-            artist_url: "/nghe-si",
-          },
-          {
-            id: 1,
-            image: "https://admin.terracemedia.co/storage/app/media/music/cậu cả.jpg",
-            name: "Cậu Cả",
-            artist: "XAVI Phạm",
-            url: "/san-pham/cau-ca",
-            artist_url: "/nghe-si",
-          },
-    ];
+    const items = MUSIC_DATA;
 
     const list = items.map((item, index) => (
         <div className="col" key={index}>

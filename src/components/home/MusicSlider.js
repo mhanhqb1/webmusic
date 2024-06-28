@@ -1,35 +1,10 @@
 import React from "react";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { MUSIC_TOP_DATA } from '../../data/Music';
 
 const MusicSlider = () => {
-  const slideMargin = 10;
-  const items = [
-    {
-      id: 1,
-      image: "https://admin.terracemedia.co/storage/app/media/music/3000.jpg",
-      name: "Không Tên 1",
-      artist: "TooNy",
-      url: "/san-pham/khong-ten-1",
-      artist_url: "/nghe-si/khong-ten-1",
-    },
-    {
-        id: 2,
-        image: "https://admin.terracemedia.co/storage/app/media/music/3000.jpg",
-        name: "Không Tên 2",
-        artist: "TooNy",
-        url: "/san-pham/khong-ten-1",
-        artist_url: "/nghe-si/khong-ten-1",
-    },
-    {
-        id: 3,
-        image: "https://admin.terracemedia.co/storage/app/media/music/3000.jpg",
-        name: "Không Tên 3",
-        artist: "TooNy",
-        url: "/san-pham/khong-ten-1",
-        artist_url: "/nghe-si/khong-ten-1",
-      },
-  ];
+  const items = MUSIC_TOP_DATA;
 
   const slides = items.map((item) => (
     <div
