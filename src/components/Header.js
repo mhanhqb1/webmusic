@@ -64,19 +64,19 @@ const Header = () => {
                 </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <a href="/nghe-si" className="nav-link" data-v-7d84d4ff>
+                <Link to="/nghe-si" className="nav-link" data-v-7d84d4ff>
                   Nghệ sĩ
-                </a>
+                </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <a href="/dich-vu" className="nav-link" data-v-7d84d4ff>
+                <Link to="/dich-vu" className="nav-link" data-v-7d84d4ff>
                   Dịch vụ
-                </a>
+                </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <a href="/phan-bo" className="nav-link" data-v-7d84d4ff>
+                <Link to="/phan-bo" className="nav-link" data-v-7d84d4ff>
                   Phân bổ
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
