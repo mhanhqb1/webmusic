@@ -3,6 +3,7 @@ export const JOB_COLORS = {
   Composer: "#16d3c0",
   Singer: "#e67e22",
   Producer: "#5454b1",
+  "Ban nhạc": "rgb(199, 222, 31)",
 };
 
 export const SOCIAL_ICON_IMAGES = {
