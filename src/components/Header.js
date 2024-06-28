@@ -44,19 +44,19 @@ const Header = () => {
           >
             <ul className="navbar-nav me-auto mb-2 mb-lg-0" data-v-7d84d4ff>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <a
-                  href="/"
+                <Link
+                  to="/"
                   aria-current="page"
                   className="nav-link nuxt-link-exact-active nuxt-link-active"
                   data-v-7d84d4ff
                 >
                   Trang chủ
-                </a>
+                </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <a href="/gioi-thieu" className="nav-link" data-v-7d84d4ff>
+                <Link to="/gioi-thieu" className="nav-link" data-v-7d84d4ff>
                   Giới thiệu
-                </a>
+                </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
                 <a href="/san-pham" className="nav-link" data-v-7d84d4ff>
