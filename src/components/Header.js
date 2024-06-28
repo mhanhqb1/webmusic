@@ -59,9 +59,9 @@ const Header = () => {
                 </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <a href="/san-pham" className="nav-link" data-v-7d84d4ff>
+                <Link to="/san-pham" className="nav-link" data-v-7d84d4ff>
                   Sản phẩm
-                </a>
+                </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
                 <a href="/nghe-si" className="nav-link" data-v-7d84d4ff>

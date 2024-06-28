@@ -332,7 +332,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      {/* <ContactForm /> */}
+      <ContactForm />
     </div>
   );
 };

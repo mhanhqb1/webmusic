@@ -44,8 +44,8 @@ const AboutRelease = () => {
                 <div data-v-15499593="">
                     <img data-v-15499593="" src="/_nuxt/img/Group 1.c5b72b6.png" alt="" className="release-img"/>
                 </div> 
-                <div data-v-15499593="" className="flickity-enabled is-draggable" tabindex="0">
-                    <div className="flickity-viewport" style={{ height: "30px", "touch-action": "pan-y"}}>
+                <div data-v-15499593="" className="flickity-enabled is-draggable" tabIndex="0">
+                    <div className="flickity-viewport" style={{ height: "30px", touchAction: "pan-y"}}>
                         <div className="flickity-slider" style={{ left: "0px", transform: "translate3d(-487.91%, 0px, 0px)"}}>
                             <div data-v-15499593="" className="carousel-cell" style={{position: "absolute", left: "0px", transform: "translateX(0%)"}} aria-hidden="true">
                                 <div data-v-15499593="" className="carousel-img">

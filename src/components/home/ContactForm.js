@@ -16,7 +16,7 @@ const ContactForm = () => {
                             <div className="overwrite-form-item el-input">
                                 <input
                                 type="text"
-                                autocomplete="off"
+                                autoComplete="off"
                                 placeholder="Họ và tên"
                                 className="el-input__inner"
                                 data-sharkid="__0"
@@ -33,7 +33,7 @@ const ContactForm = () => {
                             <div className="overwrite-form-item el-input">
                                 <input
                                 type="text"
-                                autocomplete="off"
+                                autoComplete="off"
                                 placeholder="Email"
                                 className="el-input__inner"
                                 data-sharkid="__1"
@@ -52,7 +52,7 @@ const ContactForm = () => {
                             <div className="overwrite-form-item el-input">
                                 <input
                                 type="text"
-                                autocomplete="off"
+                                autoComplete="off"
                                 placeholder="Số điện thoại"
                                 className="el-input__inner"
                                 data-sharkid="__2"
@@ -71,8 +71,8 @@ const ContactForm = () => {
                                 <div className="el-input el-input--suffix">
                                 <input
                                     type="text"
-                                    readonly="readonly"
-                                    autocomplete="off"
+                                    readOnly="readonly"
+                                    autoComplete="off"
                                     placeholder="Quốc gia"
                                     className="el-input__inner"
                                     data-sharkid="__3"
@@ -87,12 +87,12 @@ const ContactForm = () => {
                                 </div>
                                 <div
                                 className="el-select-dropdown el-popper"
-                                style={{ display: "none", "min-width": "261.5px" }}
+                                style={{ display: "none", minWidth: "261.5px" }}
                                 >
                                 <div className="el-scrollbar" >
                                     <div
                                     className="el-select-dropdown__wrap el-scrollbar__wrap"
-                                    style={{ "margin-bottom": "-17px", "margin-right": "-17px"}}
+                                    style={{ marginBottom: "-17px", marginRight: "-17px"}}
                                     >
                                     <ul
                                         className="el-scrollbar__view el-select-dropdown__list"
@@ -866,11 +866,11 @@ const ContactForm = () => {
                             <div className="el-form-item__content">
                             <div className="overwrite-form-item el-textarea">
                                 <textarea
-                                autocomplete="off"
+                                autoComplete="off"
                                 placeholder="Nội dung"
                                 className="el-textarea__inner"
                                 data-sharkid="__4"
-                                style={{ "min-height": "96px", height: "96px" }}
+                                style={{ minHeight: "96px", height: "96px" }}
                                 ></textarea>
                             </div>
                             

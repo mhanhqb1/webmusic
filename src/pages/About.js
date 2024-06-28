@@ -16,7 +16,7 @@ const About = () => {
       <AboutSolution />
       <Platform />
       <Partner />
-      <div data-v-6192361e="" class="container-line"><img data-v-6192361e="" src="/_nuxt/img/Vector.8644c82.png" alt=""/></div>
+      <div data-v-6192361e="" className="container-line"><img data-v-6192361e="" src="/_nuxt/img/Vector.8644c82.png" alt=""/></div>
       <ContactForm />
     </div>
   );
