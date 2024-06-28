@@ -2,67 +2,15 @@ import React from "react";
 import MusicSlider from "../components/home/MusicSlider";
 import ArtistSlider from "../components/home/ArtistSlider";
 import Platform from "../components/home/Platform";
+import ContactForm from "../components/home/ContactForm";
+import Partner from "../components/home/Partner";
+import Process from "../components/home/Process";
+import Landing from "../components/home/Landing";
 
 const Home = () => {
   return (
     <div className="main-component">
-      <div className="landing-container" data-v-19907d8e>
-        <div className="landing-item left" data-v-19907d8e>
-          <h1 className="title-landing" data-v-19907d8e>
-            Lan tỏa những giai điệu âm nhạc của bạn dễ dàng hơn với
-            <span className="mark-up" data-v-19907d8e>
-              Terrace Media
-            </span>
-          </h1>
-          <br data-v-19907d8e />
-          <p className="text-landing" data-v-19907d8e>
-            Đồng hành và hỗ trợ cho các nhạc sĩ, nghệ sĩ, ban nhạc và hãng thu
-            âm đạt nhiều mục tiêu và thành tựu lớn hơn với các sản phẩm của mình
-            trên nền tảng nhạc số.
-          </p>
-          <button type="button" className="btn btn-landing" data-v-19907d8e>
-            Liên hệ ngay
-          </button>
-          <div data-v-19907d8e>
-            <img
-              src="/_nuxt/img/Vector.6604bcb.png"
-              alt=""
-              className="wave-line"
-              data-v-19907d8e
-            />
-          </div>
-        </div>
-        <div className="landing-item right" data-v-19907d8e>
-          <div data-v-19907d8e>
-            <img
-              src="/_nuxt/img/Hero Image.1c70e0a.png"
-              alt="Terrace Media"
-              className="landing-img"
-              data-v-19907d8e
-            />
-          </div>
-          <div className="embed-link" data-v-19907d8e>
-            <div className="el-carousel el-carousel--horizontal" data-v-19907d8e>
-              <div className="el-carousel__container" style={{height: "180px"}}>
-                <button
-                  type="button"
-                  className="el-carousel__arrow el-carousel__arrow--left"
-                  style={{display: "none"}}
-                >
-                  <i className="el-icon-arrow-left"></i>
-                </button>
-                <button
-                  type="button"
-                  className="el-carousel__arrow el-carousel__arrow--right"
-                  style={{ display: "none"}}
-                >
-                  <i className="el-icon-arrow-right"></i>
-                </button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <Landing />
       <Platform />
       <div className="vision-container" data-v-6c5bed7c>
         <div className="line" data-v-6c5bed7c>
@@ -127,39 +75,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className="process-container" data-v-575b4f3a>
-        <div className="line" data-v-575b4f3a>
-          <img src="/_nuxt/img/Divider.64e9d59.png" alt="" data-v-575b4f3a />
-        </div>
-        <div className="process-tile" data-v-575b4f3a>
-          <h2 data-v-575b4f3a>Quy trình phát hành sản phẩm</h2>
-        </div>
-        <div className="process-content" data-v-575b4f3a>
-          <div className="process-pc" data-v-575b4f3a>
-            <img src="/_nuxt/img/Quy trinhf.aa23261.png" alt="" data-v-575b4f3a />
-          </div>
-          <div className="process-mobile" data-v-575b4f3a>
-            <div className="process-item" data-v-575b4f3a>
-              <img src="/_nuxt/img/1.2217d7f.png" alt="" data-v-575b4f3a />
-            </div>
-            <div className="process-item" data-v-575b4f3a>
-              <img src="/_nuxt/img/2.384e5bc.png" alt="" data-v-575b4f3a />
-            </div>
-            <div className="process-item" data-v-575b4f3a>
-              <img src="/_nuxt/img/3.e35d30f.png" alt="" data-v-575b4f3a />
-            </div>
-            <div className="process-item" data-v-575b4f3a>
-              <img src="/_nuxt/img/4.563d449.png" alt="" data-v-575b4f3a />
-            </div>
-            <div className="process-item" data-v-575b4f3a>
-              <img src="/_nuxt/img/5.e8c53b1.png" alt="" data-v-575b4f3a />
-            </div>
-            <div className="process-item" data-v-575b4f3a>
-              <img src="/_nuxt/img/6.78979d8.png" alt="" data-v-575b4f3a />
-            </div>
-          </div>
-        </div>
-      </div>
+      <Process />
       <div className="technology-container" data-v-b7192a84>
         <div className="line" data-v-b7192a84>
           <img src="/_nuxt/img/Divider.64e9d59.png" alt="" data-v-b7192a84 />
@@ -301,102 +217,7 @@ const Home = () => {
           </div>
         </div>
       </div>
-      <div className="partner-container" data-v-7c653112>
-        <div className="line" data-v-7c653112>
-          <img src="/_nuxt/img/Divider.64e9d59.png" alt="" data-v-7c653112 />
-        </div>
-        <div className="partner-content" data-v-7c653112>
-          <h2 data-v-7c653112>Đối tác của chúng tôi</h2>
-        </div>
-        <div className="container" data-v-7c653112>
-          <div
-            className="row row-cols-2 row-cols-md-3 row-cols-lg-5 g-2 g-lg-3 justify-content-center"
-            data-v-7c653112
-          >
-            <div className="col" data-v-7c653112>
-              <a href="https://sonosuite.com" data-v-7c653112>
-                <img
-                  src="https://admin.terracemedia.co/storage/app/media/partner/sono.png"
-                  alt="Sonosuite"
-                  data-v-7c653112
-                />
-              </a>
-            </div>
-            <div className="col" data-v-7c653112>
-              <a href="https://www.ascap.com" data-v-7c653112>
-                <img
-                  src="https://admin.terracemedia.co/storage/app/media/partner/ascap.png"
-                  alt="ASCAP"
-                  data-v-7c653112
-                />
-              </a>
-            </div>
-            <div className="col" data-v-7c653112>
-              <a href="https://www.linkfire.com" data-v-7c653112>
-                <img
-                  src="https://admin.terracemedia.co/storage/app/media/partner/linkfire.png"
-                  alt="Linkfire"
-                  data-v-7c653112
-                />
-              </a>
-            </div>
-            <div className="col" data-v-7c653112>
-              <a href="https://www.musixmatch.com" data-v-7c653112>
-                <img
-                  src="https://admin.terracemedia.co/storage/app/media/partner/musixmatch.png"
-                  alt="Musixmatch"
-                  data-v-7c653112
-                />
-              </a>
-            </div>
-            <div className="col" data-v-7c653112>
-              <a href="https://songstats.com" data-v-7c653112>
-                <img
-                  src="https://admin.terracemedia.co/storage/app/media/partner/songstats.png"
-                  alt="Songstats"
-                  data-v-7c653112
-                />
-              </a>
-            </div>
-            <div className="col" data-v-7c653112>
-              <a href="https://amis.misa.vn/amis-wesign" data-v-7c653112>
-                <img
-                  src="https://admin.terracemedia.co/storage/app/media/partner/amis wesign.png"
-                  alt="AMIS WeSign"
-                  data-v-7c653112
-                />
-              </a>
-            </div>
-            <div className="col" data-v-7c653112>
-              <a href="https://zingmp3.vn" data-v-7c653112>
-                <img
-                  src="https://admin.terracemedia.co/storage/app/media/partner/zing mp3.png"
-                  alt="Zing Mp3"
-                  data-v-7c653112
-                />
-              </a>
-            </div>
-            <div className="col" data-v-7c653112>
-              <a href="https://www.nhaccuatui.com" data-v-7c653112>
-                <img
-                  src="https://admin.terracemedia.co/storage/app/media/partner/nct.png"
-                  alt="Nhaccuatui"
-                  data-v-7c653112
-                />
-              </a>
-            </div>
-            <div className="col" data-v-7c653112>
-              <a href="https://www.vcpmc.org" data-v-7c653112>
-                <img
-                  src="https://admin.terracemedia.co/storage/app/media/partner/vcpmc.png"
-                  alt="VCPMC"
-                  data-v-7c653112
-                />
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
+      <Partner />
       <div className="data-api-container">
         <div className="artist-container">
           <div className="title-container">
@@ -511,6 +332,7 @@ const Home = () => {
           </div>
         </div>
       </div>
+      {/* <ContactForm /> */}
     </div>
   );
 };
