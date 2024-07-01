@@ -19,14 +19,14 @@ const Landing = () => {
             <button type="button" className="btn btn-landing" data-v-19907d8e>
             Liên hệ ngay
             </button>
-            <div data-v-19907d8e>
+            {/* <div data-v-19907d8e>
             <img
                 src="/_nuxt/img/Vector.6604bcb.png"
                 alt=""
                 className="wave-line"
                 data-v-19907d8e
             />
-            </div>
+            </div> */}
         </div>
         <div className="landing-item right" data-v-19907d8e>
             <div data-v-19907d8e>
@@ -37,7 +37,7 @@ const Landing = () => {
                 data-v-19907d8e
             />
             </div>
-            <div className="embed-link" data-v-19907d8e>
+            {/* <div className="embed-link" data-v-19907d8e>
             <div className="el-carousel el-carousel--horizontal" data-v-19907d8e>
                 <div className="el-carousel__container" style={{ height: "180px" }}>
                 <button
@@ -56,7 +56,7 @@ const Landing = () => {
                 </button>
                 </div>
             </div>
-            </div>
+            </div> */}
         </div>
     </div>
   );
