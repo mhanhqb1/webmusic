@@ -7,7 +7,7 @@ const AboutTechnology = () => {
             <img data-v-32bb2674="" src="/_nuxt/img/Divider.64e9d59.png" alt=""/>
         </div> 
         <div data-v-32bb2674="" className="technology-content">
-            <h2 data-v-32bb2674="">Chính sách truyền thông, tiếp thị sản phẩm</h2>
+            <h2 data-v-32bb2674="">Communication policy, product marketing</h2>
         </div> 
         <div data-v-32bb2674="" className="container">
             <div data-v-32bb2674="" className="row row-cols-1 row-cols-lg-3 g-2 g-lg-3">
@@ -18,8 +18,8 @@ const AboutTechnology = () => {
                         </div> 
                         <div data-v-32bb2674="" className="data-content">
                             <p data-v-32bb2674="">
-                            Cung cấp giải pháp truyền thông trên hệ thống mạng xã hội đa
-                            kênh: Facebook, Youtube, Tiktok, Website,...của công ty Terrace
+                            Providing communication solutions on multiple social network systems
+                            Channels: Facebook, Youtube, Tiktok, Website,... of Terrace company
                             Media.
                             </p>
                         </div>
@@ -32,7 +32,7 @@ const AboutTechnology = () => {
                         </div> 
                         <div data-v-32bb2674="" className="data-content">
                             <p data-v-32bb2674="">
-                            Dịch vụ tiếp thị trên các nền tảng: Spotify, Apple Music,
+                            Marketing services on platforms: Spotify, Apple Music,
                             Itunes, Zing Mp3, Nhaccuatui,...
                             </p>
                         </div>
@@ -45,8 +45,8 @@ const AboutTechnology = () => {
                         </div> 
                         <div data-v-32bb2674="" className="data-content">
                             <p data-v-32bb2674="">
-                            Hỗ trợ tạo các hình ảnh truyền thông, ấn phẩm thành tích sản
-                            phẩm (nếu có)
+                            Support in creating media images and product achievement publications
+                            product (if any)
                             </p>
                         </div>
                     </div>
@@ -58,8 +58,8 @@ const AboutTechnology = () => {
                         </div> 
                         <div data-v-32bb2674="" className="data-content">
                             <p data-v-32bb2674="">
-                            Xây dựng Landing page cho từng sản phẩm, tích hợp các nền tảng
-                            truyền thông.
+                            Build Landing page for each product, integrating platforms
+                            communication.
                             </p>
                         </div>
                     </div>
@@ -71,8 +71,8 @@ const AboutTechnology = () => {
                         </div> 
                         <div data-v-32bb2674="" className="data-content">
                             <p data-v-32bb2674="">
-                            Tổ chức phỏng vấn, viết blog đưa tin về sản phẩm khi chuẩn bị ra
-                            mắt.
+                            Organize interviews, write blogs to report on products when preparing for release
+                            eye.
                             </p>
                         </div>
                     </div>
@@ -84,8 +84,8 @@ const AboutTechnology = () => {
                         </div> 
                         <div data-v-32bb2674="" className="data-content">
                             <p data-v-32bb2674="">
-                            Công cụ theo dõi và phân tích, cập nhật kết quả thường xuyên để
-                            đánh giá hiệu quả chiến dịch truyền thông,...
+                            Monitoring and analysis tools, regularly updating results
+                            Evaluate the effectiveness of communication campaigns,...
                             </p>
                         </div>
                     </div>

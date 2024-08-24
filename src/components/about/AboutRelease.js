@@ -6,7 +6,7 @@ const AboutRelease = () => {
         <div data-v-15499593="" className="line">
             <img data-v-15499593="" src="/_nuxt/img/Divider.64e9d59.png" alt=""/>
         </div> 
-        <h2 data-v-15499593="" className="release-title">Chính sách phân phối, phát hành sản phẩm</h2> 
+        <h2 data-v-15499593="" className="release-title">Product distribution and release policy</h2> 
         <div data-v-15499593="" className="item-container">
             <div data-v-15499593="" className="release-item text-item">
                 <ul data-v-15499593="" className="item-col">
@@ -15,10 +15,10 @@ const AboutRelease = () => {
                             <img data-v-15499593="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-15499593="" className="release-text">
-                            Phân phối sản phẩm tới hơn
-                            <span data-v-15499593="" className="mark-up">200 nền tảng âm nhạc <br data-v-15499593=""/>
-                            kĩ thuật số</span>
-                            trên toàn thế giới như: Spotify, Apple <br data-v-15499593=""/>
+                            Distributing products to more than
+                            <span data-v-15499593="" className="mark-up">200 digital music <br data-v-15499593=""/>
+                            platforms</span>
+                            worldwide such as: Spotify, Apple <br data-v-15499593=""/>
                             Music, Itunes, Facebook, Tiktok, Youtube Music, <br data-v-15499593=""/>
                             Zing Mp3, Nhaccuatui,...
                         </p>
@@ -28,15 +28,14 @@ const AboutRelease = () => {
                             <img data-v-15499593="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-15499593="" className="release-text">
-                            Tốc độ phát hành <span data-v-15499593="" className="mark-up">nhanh</span>, xuất hiện
-                            trên các nền <br data-v-15499593=""/>
-                            tảng <span data-v-15499593="" className="mark-up">trong vòng 48h</span>.
+                            Fast release speed, appearance on <br data-v-15499593=""/>
+                            platforms <span data-v-15499593="" className="mark-up">within 48 hours</span>.
                         </p>
                     </li>
                 </ul> 
                 <a data-v-15499593="" href="/lien-he" className="set-effect">
                     <button data-v-15499593="" type="button" className="btn btn-release">
-                    Liên hệ ngay
+                    Contact now
                     </button>
                 </a>
             </div> 
@@ -67,16 +66,16 @@ const AboutRelease = () => {
                         <div data-v-15499593="" className="music-note">
                             <img data-v-15499593="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
-                        <p data-v-15499593="" className="release-text">Dịch vụ Youtube Content ID miễn phí.</p>
+                        <p data-v-15499593="" className="release-text">Youtube Content ID service is free.</p>
                     </li> 
                     <li data-v-15499593="" className="item-row">
                         <div data-v-15499593="" className="music-note">
                             <img data-v-15499593="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-15499593="" className="release-text">
-                            Cung cấp bảng điều khiển cho đối tác quản lý danh <br data-v-15499593=""/>
-                            mục phát hành, phân tích dữ liệu hàng ngày và báo <br data-v-15499593=""/>
-                            cáo doanh thu.
+                        Provides dashboards for partners to manage <br data-v-15499593=""/>
+                        their release portfolio, analyze daily data, <br data-v-15499593=""/>
+                        and report revenue.
                         </p>
                     </li> 
                     <li data-v-15499593="" className="item-row">
@@ -84,14 +83,14 @@ const AboutRelease = () => {
                             <img data-v-15499593="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-15499593="" className="release-text">
-                            Cung cấp tài khoản quản lý từng nghệ sĩ cho các <br data-v-15499593=""/>
-                            ban nhạc, hãng thu âm, công ty phát hành.
+                        Provide individual artist management accounts for <br data-v-15499593=""/>
+                        bands, record labels, and publishing companies.
                         </p>
                     </li>
                 </ul> 
                 <a data-v-15499593="" href="/lien-he" className="set-effect">
                     <button data-v-15499593="" type="button" className="btn btn-release">
-                        Liên hệ ngay
+                        Contact now
                     </button>
                 </a>
             </div> 
@@ -108,14 +107,14 @@ const AboutRelease = () => {
                         <div data-v-15499593="" className="music-note">
                             <img data-v-15499593="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
-                        <p data-v-15499593="" className="release-text">Thanh toán doanh thu hàng tháng.</p>
+                        <p data-v-15499593="" className="release-text">Monthly revenue payment.</p>
                     </li> 
                     <li data-v-15499593="" className="item-row">
                         <div data-v-15499593="" className="music-note">
                             <img data-v-15499593="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-15499593="" className="release-text">
-                            Hỗ trợ ứng trước doanh thu với các sản phẩm tiềm năng.
+                        Support revenue advances with potential products.
                         </p>
                     </li> 
                     <li data-v-15499593="" className="item-row">
@@ -123,14 +122,14 @@ const AboutRelease = () => {
                             <img data-v-15499593="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-15499593="" className="release-text">
-                            Hỗ trợ tích nghệ sĩ trên 1 số nền tảng như: Spotify, <br data-v-15499593=""/>
+                        Supports artist integration on several platforms such as: Spotify, <br data-v-15499593=""/>
                             Apple Music Youtube, Amazon Music.
                         </p>
                     </li>
                 </ul> 
                 <a data-v-15499593="" href="/lien-he" className="set-effect">
                     <button data-v-15499593="" type="button" className="btn btn-release">
-                    Liên hệ ngay
+                    Contact now
                     </button>
                 </a>
             </div> 

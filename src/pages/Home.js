@@ -26,14 +26,10 @@ const Home = () => {
           </div>
           <div className="vision-item" data-v-6c5bed7c>
             <h2 className="title" data-v-6c5bed7c>
-              Tầm nhìn
+            Vision
             </h2>
             <p className="content" data-v-6c5bed7c>
-              Trở thành công ty truyền thông và phân phối âm nhạc hàng đầu khu
-              vực, là đối tác tin cậy của các ban nhạc, hãng thu âm, nhạc sĩ,
-              nghệ sĩ. Cung cấp các giải pháp tiếp thị và phát hành sản phẩm âm
-              nhạc trên các nền tảng nhạc số một cách nhanh chóng và hiệu quả
-              nhất.
+            Becoming the region's leading music distribution and media company, a trusted partner of bands, record labels, musicians, and artists. Providing solutions for marketing and releasing music products on digital music platforms in the fastest and most effective way.
             </p>
           </div>
         </div>
@@ -45,25 +41,16 @@ const Home = () => {
         <div className="mission-flex" data-v-60195a79>
           <div className="mission-item" data-v-60195a79>
             <h2 className="title" data-v-60195a79>
-              Sứ mệnh
+            Mission
             </h2>
             <p className="content" data-v-60195a79>
-              Đồng hành cùng các đối tác đưa các sản phẩm chinh phục những đỉnh
-              cao mới trong ngành âm nhạc. Tạo ra một cộng đồng âm nhạc đa dạng,
-              phong phú và chất lượng.
+            Accompanying partners to bring products to conquer new heights in the music industry. Create a diverse, rich and quality music community.
               <br data-v-60195a79 />
               <br data-v-60195a79 />
-              Terrace Media cũng hỗ trợ các ban nhạc, nhạc sĩ, nghệ sĩ trẻ mới
-              bước chân vào con đường âm nhạc, giúp họ phát triển tài năng và
-              đưa các sản phẩm âm nhạc tiếp cận với công chúng.
+              LQ Media also supports bands, musicians, and young artists who are new to the music industry, helping them develop their talents and bring music products to the public.
               <br data-v-60195a79 />
               <br data-v-60195a79 />
-              Chúng tôi cũng tôn trọng giá trị của các ban nhạc, nhạc sĩ và nghệ
-              sĩ, đảm bảo tính công bằng, minh bạch trong việc phân phối sản
-              phẩm âm nhạc, đáp ứng quy định pháp luật liên quan đến bản quyền
-              và sở hữu trí tuệ; Sử dụng các công nghệ và tiện ích để chi trả
-              tiền bản quyền một cách đầy đủ và rõ ràng nhất, giúp các đối tác
-              có niềm tin và động lực hơn để phát triển sự nghiệp.
+              We also respect the value of bands, musicians and artists, ensure fairness and transparency in the distribution of music products, and meet legal regulations related to copyright and intellectual property. wisdom; Using technology and utilities to pay royalties in the most complete and clear way, helping partners have more confidence and motivation to develop their careers.
             </p>
           </div>
           <div className="mission-item" data-v-60195a79>
@@ -81,7 +68,7 @@ const Home = () => {
           <img src="/_nuxt/img/Divider.64e9d59.png" alt="" data-v-b7192a84 />
         </div>
         <div className="technology-content" data-v-b7192a84>
-          <h2 data-v-b7192a84>Công nghệ và tiện ích</h2>
+          <h2 data-v-b7192a84>Technology and gadgets</h2>
         </div>
         <div className="container" data-v-b7192a84>
           <div
@@ -94,16 +81,11 @@ const Home = () => {
                   <img src="/_nuxt/img/1.e86b48b.png" alt="" data-v-b7192a84 />
                 </div>
                 <div className="title-content" data-v-b7192a84>
-                  <h3 data-v-b7192a84>Giải pháp sản xuất</h3>
+                  <h3 data-v-b7192a84>Production solutions</h3>
                 </div>
                 <div className="data-content" data-v-b7192a84>
                   <p data-v-b7192a84>
-                    Cung cấp giải pháp sản xuất gồm studio sản xuất âm nhạc,
-                    ekip làm MV và hình ảnh chuyên nghiệp được trang bị các
-                    thiết bị máy móc hiện đại. Ngoài ra chúng tôi còn có đội ngũ
-                    chuyên gia ở nhiều lĩnh vực như composer, songwriter,
-                    producer,...hỗ trợ cho sản phẩm của đối tác được hoàn thiện
-                    hơn.
+                  Providing production solutions including a music production studio, MV and professional image making crew equipped with modern machinery and equipment. In addition, we also have a team of experts in many fields such as composer, songwriter, producer,... to support our partners' products to be more perfect.
                   </p>
                 </div>
               </div>
@@ -118,13 +100,11 @@ const Home = () => {
                   />
                 </div>
                 <div className="title-content" data-v-b7192a84>
-                  <h3 data-v-b7192a84>Giải pháp phân phối</h3>
+                  <h3 data-v-b7192a84>Distribution solutions</h3>
                 </div>
                 <div className="data-content" data-v-b7192a84>
                   <p data-v-b7192a84>
-                    Cung cấp giải pháp phân phối âm nhạc tới các nhà cung cấp
-                    dịch vụ kỹ thuật số (DSP) trên khắp thế giới, giúp sản phẩm
-                    tiếp cận hàng triệu khán giả trong vòng 48h ở bất kỳ đâu.
+                  Providing music distribution solutions to digital service providers (DSPs) around the world, helping products reach millions of audiences within 48 hours, anywhere.
                   </p>
                 </div>
               </div>
@@ -139,15 +119,11 @@ const Home = () => {
                   />
                 </div>
                 <div className="title-content" data-v-b7192a84>
-                  <h3 data-v-b7192a84>Giải pháp tiếp thị</h3>
+                  <h3 data-v-b7192a84>Marketing solutions</h3>
                 </div>
                 <div className="data-content" data-v-b7192a84>
                   <p data-v-b7192a84>
-                    chúng tôi hợp tác với các công ty truyền thông âm nhạc hàng
-                    đầu, cung cấp giải pháp truyền thông trên hệ thống mạng đa
-                    kênh: fanpage Facebook, kênh Youtube, kênh Tiktok,
-                    Website,...dịch vụ tiếp thị trên các nền tảng: Spotify,
-                    Apple Music, Zing Mp3, Nhaccuatui,...
+                  We cooperate with leading music media companies, providing communication solutions on multi-channel network systems: Facebook fanpage, Youtube channel, Tiktok channel, Website,... marketing services on platforms : Spotify, Apple Music, Zing Mp3, Nhaccuatui,...
                   </p>
                 </div>
               </div>
@@ -163,16 +139,12 @@ const Home = () => {
                 </div>
                 <div className="title-content" data-v-b7192a84>
                   <h3 data-v-b7192a84>
-                    Quản lý dữ liệu, phân tích và báo cáo doanh thu
+                  Data management, analysis and revenue reporting
                   </h3>
                 </div>
                 <div className="data-content" data-v-b7192a84>
                   <p data-v-b7192a84>
-                    Bảng điều khiển tích hợp báo cáo doanh thu và quản lý danh
-                    mục bài hát của bạn, theo dõi danh mục hoạt động thế nào
-                    thông qua công cụ phân tích, có thể theo dõi dữ liệu và báo
-                    cáo doanh thu hàng ngày, từng sản phẩm, từng nền tảng, từng
-                    lãnh thổ.
+                  The integrated dashboard reports revenue and manages your song catalog, tracks how your catalog is performing through analytics, can track data and report daily, product-by-product sales. product, each platform, each territory.
                   </p>
                 </div>
               </div>
@@ -183,14 +155,11 @@ const Home = () => {
                   <img src="/_nuxt/img/5.2b9b496.png" alt="" data-v-b7192a84 />
                 </div>
                 <div className="title-content" data-v-b7192a84>
-                  <h3 data-v-b7192a84>Luôn kết nối với đối tác</h3>
+                  <h3 data-v-b7192a84>Stay connected with partners</h3>
                 </div>
                 <div className="data-content" data-v-b7192a84>
                   <p data-v-b7192a84>
-                    Chúng tôi luôn kết nối và hỗ trợ đối tác nhanh chóng, giúp
-                    mọi người dễ dàng tiếp cận với không gian nhạc số cho dù là
-                    người mới, giúp các đối tác có trải nghiệm tốt và suôn sẻ
-                    hơn.
+                  We always connect and support partners quickly, helping everyone easily access the digital music space even if they are new, helping partners have a better and smoother experience.
                   </p>
                 </div>
               </div>
@@ -201,15 +170,11 @@ const Home = () => {
                   <img src="/_nuxt/img/6.c94d6ca.png" alt="" data-v-b7192a84 />
                 </div>
                 <div className="title-content" data-v-b7192a84>
-                  <h3 data-v-b7192a84>Cập nhật tin tức mới</h3>
+                  <h3 data-v-b7192a84>Update new news</h3>
                 </div>
                 <div className="data-content" data-v-b7192a84>
                   <p data-v-b7192a84>
-                    Chúng tôi luôn cập nhật những tin tức và xu hướng âm nhạc
-                    thịnh hành, đồng thời cũng chia sẻ các bài viết, tài liệu
-                    hay và có giá trị trong ngành âm nhạc của những người có
-                    chuyên môn cao, giúp xây dựng cộng đồng âm nhạc ngày càng
-                    phát triển.
+                  We always update popular music news and trends, and also share good and valuable articles and documents in the music industry from highly qualified people, helping to build a music community. Music is growing more and more.
                   </p>
                 </div>
               </div>
@@ -221,7 +186,7 @@ const Home = () => {
       <div className="data-api-container">
         <div className="artist-container">
           <div className="title-container">
-            <h2>Nghệ sĩ nổi bật</h2>
+            <h2>Featured artists</h2>
           </div>
           <div className="content-container">
             <div className="agile agile--ssr agile--auto-play agile--no-nav-buttons">
@@ -239,7 +204,7 @@ const Home = () => {
         </div>
         <div className="music-container">
           <div className="title-container">
-            <h2>Sản phẩm nổi bật</h2>
+            <h2>Featured products</h2>
           </div>
           <div data-v-e0a7b2ea>
             <div
@@ -258,7 +223,7 @@ const Home = () => {
         </div>
         <div className="blog-container">
           <div className="title-container">
-            <h2>Các tin tức mới nhất</h2>
+            <h2>The latest news</h2>
           </div>
           <div className="content-container">
             <div className="row row-cols-1 row-cols-lg-3 g-2 g-lg-3">

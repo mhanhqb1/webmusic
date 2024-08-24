@@ -4,14 +4,14 @@ const OurServices = () => {
   return (
     <div data-v-76f4fb16="" data-v-3aa51a22="" class="our-service-container">
         <div data-v-76f4fb16="" class="ourservice-item left">
-            <h1 data-v-76f4fb16="" class="title">Dịch vụ của chúng tôi</h1>
+            <h1 data-v-76f4fb16="" class="title">Our Services</h1>
             <br data-v-76f4fb16=""/> 
             <p data-v-76f4fb16="" class="text">
-                Hiện nay, chúng tôi đang cung cấp các dịch vụ, giải pháp 360 cho các đối
-                tác gồm: sản xuất, phân phối, tiếp thị, khai thác và thương mại, tối ưu
-                hóa, quản lý và định hướng nghề nghiệp (phong cách âm nhạc, hình ảnh).
-                Khi hợp tác với chúng tôi, quý đối tác sẽ nhận được các chính sách và
-                quyền lợi dưới đây.
+            Currently, we are providing 360 services and solutions to our partners
+                Collaboration includes: production, distribution, marketing, exploitation and trade, optimization
+                culture, management and career orientation (music style, image).
+                When cooperating with us, partners will receive policies and procedures
+                benefits below.
             </p> 
             <button data-v-76f4fb16="" type="button" class="btn btn-service">
                 <img data-v-76f4fb16="" src="/_nuxt/img/Group 39292.c79e7a1.png" alt=""/>Scroll down

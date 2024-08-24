@@ -10,12 +10,12 @@ const ServiceContainer = () => {
                 </div>
             </div> 
             <div data-v-8de76404="" className="service-item right">
-                <h2 data-v-8de76404="" className="service-title">Ký kết hợp đồng linh hoạt</h2> 
+                <h2 data-v-8de76404="" className="service-title">Sign flexible contracts</h2> 
                 <p data-v-8de76404="" className="service-text">
-                    Chúng tôi cung cấp giải pháp ký hợp đồng điện tử nhanh chóng và thuận
-                    tiện, giúp đối tác có thể ký hợp đồng hợp tác với chúng tôi từ xa mọi
-                    lúc mọi nơi, giúp tiết kiệm thời gian và công sức mà giá trị pháp lý
-                    vẫn tương tự hợp đồng giấy truyền thống.
+                We provide quick and convenient electronic contract signing solutions
+                    Conveniently, helping partners sign cooperation contracts with us remotely
+                    anytime, anywhere, helping to save time and effort with legal value
+                    still similar to traditional paper contracts.
                 </p>
             </div>
         </div> 
@@ -27,7 +27,7 @@ const ServiceContainer = () => {
             </div> 
             <div data-v-8de76404="" className="service-item right">
                 <h2 data-v-8de76404="" className="service-title">
-                    Dịch vụ phát hành, phân phối âm nhạc kỹ thuật số
+                Digital music publishing and distribution services
                 </h2> 
                 <ul data-v-8de76404="" className="item-col">
                     <li data-v-8de76404="" className="item-row">
@@ -35,8 +35,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Phân phối sản phẩm âm nhạc của bạn tới hơn 200 nền tảng trên toàn
-                            thế giới như: Spotify, Apple Music, Zing Mp3, Nhaccuatui,
+                        Distribute your music to over 200 platforms worldwide
+                            world such as: Spotify, Apple Music, Zing Mp3, Nhaccuatui,
                             Facebook, Tiktok,...
                         </p>
                     </li> 
@@ -45,8 +45,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Tốc độ phát hành nhanh chóng, xuất hiện trên các nền tảng trong
-                            vòng 48h.
+                        Rapid release speed, appearing on internal platforms
+                        within 48 hours.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -54,32 +54,24 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Dịch vụ Youtube Content ID miễn phí giúp quản lý bản quyền trên
-                            Youtube và truy vết doanh thu, bạn sẽ được trả tiền ngay cả khi
-                            người khác sử dụng nhạc của bạn trong video Youtube của họ.
+                        Free Youtube Content ID service helps manage copyright above
+                            Youtube and track revenue, you will get paid even if
+                            other people use your music in their Youtube videos.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
                         <div data-v-8de76404="" className="music-note">
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
-                        <p data-v-8de76404="" className="service-text">Cung cấp mã UPC và ISRC miễn phí.</p>
+                        <p data-v-8de76404="" className="service-text">Provides free UPC and ISRC codes.</p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
                         <div data-v-8de76404="" className="music-note">
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Công cụ tải lên lời bài hát, giúp lời bài hát của bạn trên các nền
-                            tảng chính xác hơn.
-                        </p>
-                    </li> 
-                    <li data-v-8de76404="" className="item-row">
-                        <div data-v-8de76404="" className="music-note">
-                            <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
-                        </div> 
-                        <p data-v-8de76404="" className="service-text">
-                            Tùy chỉnh ngày và khu vực bạn muốn phát hành.
+                        Lyrics upload tool, helps your lyrics on backgrounds
+                        more accurate platform.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -87,8 +79,7 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Phân phối sản phẩm tới các hồ sơ sẵn có của bạn tại các nền tảng,
-                            tránh phân phối sai hồ sơ.
+                        Customize the date and region you want to release to.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -96,8 +87,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Khai thác tiềm năng kiếm tiền từ UGC, PGC trên Facebook,
-                            Instagram, Tiktok tối đa hóa doanh thu.
+                        Distribute products to your existing profiles across platforms,
+                        Avoid misdistribution of records.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -105,8 +96,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Thêm bài hát vào danh sách phát thịnh hành của chúng tôi trên các
-                            nền tảng, giúp sản phẩm dễ dàng tiếp cận khán giả.
+                        Exploiting the monetization potential from UGC, PGC on Facebook,
+                        Instagram, Tiktok maximize revenue.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -114,7 +105,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Công cụ theo dõi dữ liệu và xu hướng hàng ngày.
+                        Add songs to our trending playlists on the
+                        platform, helping products easily reach audiences.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -122,8 +114,7 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Công cụ quản lý cho nghệ sĩ, ban nhạc, hãng thu âm, công ty quản
-                            lý và phát hành.
+                        Daily data and trend tracking tool.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -131,8 +122,17 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Xác minh tích nghệ sĩ: Spotify, Apple Music, Youtube, Amazon
-                            Music.
+                        Management tools for artists, bands, record labels, management companies
+                            management and publication.
+                        </p>
+                    </li> 
+                    <li data-v-8de76404="" className="item-row">
+                        <div data-v-8de76404="" className="music-note">
+                            <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
+                        </div> 
+                        <p data-v-8de76404="" className="service-text">
+                        Verify artist records: Spotify, Apple Music, Youtube, Amazon
+                        Music.
                         </p>
                     </li>
                 </ul>
@@ -145,16 +145,16 @@ const ServiceContainer = () => {
                 </div>
             </div> 
             <div data-v-8de76404="" className="service-item right">
-                <h2 data-v-8de76404="" className="service-title">Dịch vụ truyền thông và tiếp thị sản phẩm</h2> 
+                <h2 data-v-8de76404="" className="service-title">Product marketing and communication services</h2> 
                 <ul data-v-8de76404="" className="item-col">
                     <li data-v-8de76404="" className="item-row">
                         <div data-v-8de76404="" className="music-note">
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Truyền thông hình ảnh, video, bài viết trên hệ thống mạng xã hội
-                            đa kênh: Facebook, Instagram, Youtube, Tiktok, Website,...của
-                            chúng tôi.
+                        Communicate images, videos, and articles on social networking systems
+                            Multi-channel: Facebook, Instagram, Youtube, Tiktok, Website,... of
+                            we.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -162,8 +162,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Chiến dịch tiếp thị trên các nền tảng nhạc số: Spotify, Apple
-                            Music, Itunes, Zing Mp3, Nhaccuatui,...
+                        Marketing campaign on digital music platforms: Spotify, Apple
+                        Music, Itunes, Zing Mp3, Nhaccuatui,...
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -171,8 +171,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Chiến dịch tiếp thị người ảnh hưởng trên các phương tiện truyền
-                            thông xã hội: Facebook, Instagram, Tiktok, Youtube, Twitter,...
+                        Influencer marketing campaign across media
+                        Social media: Facebook, Instagram, Tiktok, Youtube, Twitter,...
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -180,7 +180,7 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Tạo các hình ảnh truyền thông, ấn phẩm thành tích sản phẩm.
+                        Create media images and product achievement publications.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -188,9 +188,9 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Quảng cáo Facebook, Google, Tiktok, Youtube và hợp tác truyền
-                            thông với các trang mạng, báo chí đẩy mạnh tiếp thị và tăng khả
-                            năng tiếp cận khán giả.
+                        Facebook, Google, Tiktok, Youtube advertising and media cooperation
+                            Communicate with websites and newspapers to promote marketing and increase capacity
+                            ability to reach audiences.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -198,8 +198,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Quảng cáo danh sách phát Spotify, tạo luồng và tương tác với quảng
-                            cáo Apple Music, Amazon Music, Soundcloud,...
+                        Promote Spotify playlists, create streams, and engage with ads
+                        Apple Music, Amazon Music, Soundcloud,...
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -207,9 +207,9 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Dịch vụ tạo smart link, landing page tích hợp phương tiện truyền
-                            thông giúp bạn chia sẻ sản phẩm âm nhạc trên các nền tảng của mình
-                            chỉ với 1 liên kết.
+                        Services to create smart links, landing pages with integrated media
+                            Media helps you share music products across your platforms
+                            with just 1 link.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -217,10 +217,10 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Hỗ trợ tìm kiếm, hợp tác với các nghệ sĩ khác có màu sắc âm nhạc
-                            tương tự trên website của chúng tôi, giúp nâng cao thương hiệu cá
-                            nhân của bạn và giúp sản phẩm của bạn tiếp cận những người hâm mộ
-                            mà bạn chưa từng tiếp cận trước đây.
+                        Support finding and collaborating with other artists of musical color
+                            similar on our website, helping to enhance the fish brand
+                            your employees and help your products reach your fans
+                            that you have never approached before.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -228,8 +228,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Tổ chức phỏng vấn, viết blog đưa tin về sản phẩm khi chuẩn bị ra
-                            mắt.
+                        Organize interviews, write blogs to report on products when preparing for release
+                        eye.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -237,8 +237,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Theo dõi, phân tích và cập nhật kết quả thường xuyên để đánh giá
-                            hiệu quả chiến dịch truyền thông.
+                        Monitor, analyze and update results regularly for evaluation
+                        effective communication campaign.
                         </p>
                     </li>
                 </ul>
@@ -251,15 +251,15 @@ const ServiceContainer = () => {
                 </div>
             </div> 
             <div data-v-8de76404="" className="service-item right">
-                <h2 data-v-8de76404="" className="service-title">Dịch vụ kế toán, báo cáo doanh thu</h2> 
+                <h2 data-v-8de76404="" className="service-title">Accounting services, revenue reporting</h2> 
                 <ul data-v-8de76404="" className="item-col">
                     <li data-v-8de76404="" className="item-row">
                         <div data-v-8de76404="" className="music-note">
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Phân tích, báo cáo doanh thu minh bạch hàng tháng theo từng sản
-                            phẩm, nghệ sĩ, nền tảng, quốc gia.
+                        Analyze and report transparent monthly revenue by each product
+                        product, artist, platform, country.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -267,8 +267,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Công cụ chia sẻ tiền bản quyền nhiều cấp độ: nhà phân phối, công
-                            ty, hãng thu âm, nghệ sĩ, tác giả,....
+                        Multi-level royalty sharing tool: distributor, public
+                        company, record label, artist, author,...
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -276,7 +276,7 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Phân tích, hiển thị doanh thu và tải xuống hóa đơn chi tiết.
+                        Analyze, display revenue and download detailed invoices.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -284,7 +284,7 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Thanh toán doanh thu linh hoạt hàng tháng, quý, năm.
+                        Flexible revenue payments monthly, quarterly, and yearly.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -292,8 +292,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Ứng trước doanh thu cho các sản phẩm tiềm năng (dựa theo view, thứ
-                            hạng, thương hiệu,...) sau khi phát hành sản phẩm.
+                        Advance revenue for potential products (based on view, number
+                            class, brand,...) after product release.
                         </p>
                     </li>
                 </ul>
@@ -306,16 +306,16 @@ const ServiceContainer = () => {
                 </div>
             </div> 
             <div data-v-8de76404="" className="service-item right">
-                <h2 data-v-8de76404="" className="service-title">Dịch vụ sản xuất âm nhạc, MV, hình ảnh</h2> 
+                <h2 data-v-8de76404="" className="service-title">Music, MV, and image production services</h2> 
                 <ul data-v-8de76404="" className="item-col">
                     <li data-v-8de76404="" className="item-row">
                         <div data-v-8de76404="" className="music-note">
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Dịch vụ sản xuất âm nhạc gồm studio sản xuất nhạc, phòng thu cùng
-                            với sự kết hợp của các Producer chuyên nghiệp giúp sản phẩm của
-                            bạn trở nên bắt tai và thu hút khán giả hơn.
+                        Music production services include music production studios and recording studios
+                            with the combination of professional Producers to help your products
+                            you become more catchy and attract the audience.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -323,10 +323,10 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div>
                         <p data-v-8de76404="" className="service-text">
-                            Ekip quay dựng, lên kịch bản MV âm nhạc, hình ảnh chuyên nghiệp có
-                            nhiều kinh nghiệm, từng làm các MV nổi tiếng và được trang bị các
-                            trang thiết bị hiện đại giúp cho video của bạn trở nên sáng tạo và
-                            bắt kịp xu thế.
+                        The crew filmed and scripted the music video and had professional images
+                            has a lot of experience, has worked on famous MVs and is equipped with
+                            Modern equipment helps make your videos creative and
+                            keep up with the trend.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -334,8 +334,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Sản xuất các hình ảnh, ấn phẩm truyền thông cho sản phẩm và nghệ
-                            sĩ, tạo các ẩn phẩm thành tích khi sản phẩm đạt thành tựu nổi bật.
+                        Producing images and media publications for products and technology
+                            artist, create achievement publications when the product achieves outstanding achievements.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -343,8 +343,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Sản xuất video phỏng vấn, hậu trường, teaser trailer,...giúp tiếp
-                            thị sản phẩm tới khán giả trước khi ra mắt sản phẩm.
+                        Producing interview videos, behind the scenes, teaser trailers,...continued help
+                        Market the product to the audience before launching the product.
                         </p>
                     </li>
                 </ul>
@@ -358,7 +358,7 @@ const ServiceContainer = () => {
             </div> 
             <div data-v-8de76404="" className="service-item right">
                 <h2 data-v-8de76404="" className="service-title">
-                    Tư vấn, hỗ trợ, định hướng và kết nối với đối tác
+                Consulting, support, orientation and connection with partners
                 </h2>
                 <ul data-v-8de76404="" className="item-col">
                     <li data-v-8de76404="" className="item-row">
@@ -366,9 +366,9 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Đội ngũ chuyên gia nhiều lĩnh vực như Composer, Songwriter,
-                            Producer,...có nhiều năm kinh nghiệm hỗ trợ tư vấn và hoàn thiện
-                            sản phẩm giúp chất lượng được nâng cao.
+                        A team of experts in many fields such as Composer, Songwriter,
+                            Producer,...has many years of experience in consulting and completing support
+                            Products help improve quality.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -376,8 +376,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Tìm kiếm, hợp tác với các nhà tài trợ, đơn vị đồng hành hỗ trợ và
-                            đầu tư cho các sản phẩm tiềm năng.
+                        Search and cooperate with sponsors, support companions and units
+                        Invest in potential products.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -385,8 +385,8 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Tư vấn và định hướng sản phẩm, lựa chọn các yếu tố và phong cách
-                            phù hợp với các chiến lược phát triển.
+                        Consulting and product direction, choosing elements and styles
+                        consistent with development strategies.
                         </p>
                     </li> 
                     <li data-v-8de76404="" className="item-row">
@@ -394,9 +394,9 @@ const ServiceContainer = () => {
                             <img data-v-8de76404="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-8de76404="" className="service-text">
-                            Luôn đồng hành, hỗ trợ cho đối tác trong các dự án, đưa ra giải
-                            pháp kịp thời giúp đối tác yên tâm tạo ra các sản phẩm chất lượng
-                            tốt nhất.
+                        Always accompany and support partners in projects and give solutions
+                            Timely solutions help partners feel secure in creating quality products
+                            best.
                         </p>
                     </li>
                 </ul>

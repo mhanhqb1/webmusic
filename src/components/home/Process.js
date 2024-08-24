@@ -7,7 +7,7 @@ const Process = () => {
           <img src="/_nuxt/img/Divider.64e9d59.png" alt="" data-v-575b4f3a />
         </div>
         <div className="process-tile" data-v-575b4f3a>
-          <h2 data-v-575b4f3a>Quy trình phát hành sản phẩm</h2>
+          <h2 data-v-575b4f3a>Product release process</h2>
         </div>
         <div className="process-content" data-v-575b4f3a>
           <div className="process-pc" data-v-575b4f3a>

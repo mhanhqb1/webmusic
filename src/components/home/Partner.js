@@ -7,7 +7,7 @@ const Partner = () => {
             <img src="/_nuxt/img/Divider.64e9d59.png" alt="" data-v-7c653112 />
             </div>
             <div className="partner-content" data-v-7c653112>
-            <h2 data-v-7c653112>Đối tác của chúng tôi</h2>
+            <h2 data-v-7c653112>Our partners</h2>
             </div>
             <div className="container" data-v-7c653112>
                 <div

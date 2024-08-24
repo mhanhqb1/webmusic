@@ -6,7 +6,7 @@ const AboutSolution = () => {
         <div data-v-9efc35fa="" className="line">
             <img data-v-9efc35fa="" src="/_nuxt/img/Divider.64e9d59.png" alt=""/>
         </div> 
-        <h2 data-v-9efc35fa="" className="solution-title">Giải pháp sản xuất, định hướng sản phẩm</h2> 
+        <h2 data-v-9efc35fa="" className="solution-title">Production solutions, product orientation</h2> 
         <div data-v-9efc35fa="" className="solution-flex">
             <div data-v-9efc35fa="" className="solution-item left">
                 <ul data-v-9efc35fa="" className="item-col">
@@ -15,9 +15,9 @@ const AboutSolution = () => {
                             <img data-v-9efc35fa="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-9efc35fa="" className="solution-text">
-                            Cung cấp giải pháp sản xuất sản phẩm gồm studio sản xuất
-                            <br data-v-9efc35fa=""/>nhạc, thu âm, ekip quay dựng MV âm nhạc, hình ảnh chuyên
-                            <br data-v-9efc35fa=""/>nghiệp được trang bị các trang thiết bị hiện đại.
+                        Providing product production solutions including music production
+                            <br data-v-9efc35fa=""/>studio, recording studio, music video editing crew, professional 
+                            <br data-v-9efc35fa=""/>images equipped with modern equipment.
                         </p>
                     </li> 
                     <li data-v-9efc35fa="" className="item-row">
@@ -25,10 +25,10 @@ const AboutSolution = () => {
                             <img data-v-9efc35fa="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-9efc35fa="" className="solution-text">
-                            Đội ngũ chuyên gia nhiều lĩnh vực như Composer, Songwriter, <br data-v-9efc35fa=""/>
-                            Producer,...hỗ trợ tư vấn và hoàn thiện sản phẩm giúp nâng cao
+                            A team of experts in many fields such as Composer,  Songwriter, <br data-v-9efc35fa=""/>
+                            Producer,... supports consulting and perfecting products to help 
                             <br data-v-9efc35fa=""/>
-                            chất lượng sản phẩm.
+                            improve product quality.
                         </p>
                     </li> 
                     <li data-v-9efc35fa="" className="item-row">
@@ -36,9 +36,9 @@ const AboutSolution = () => {
                             <img data-v-9efc35fa="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-9efc35fa="" className="solution-text">
-                            Tìm kiếm nhà tài trợ, đơn vị đồng hành hợp tác với các sản phẩm
+                        Search for sponsors and partners to cooperate with
                             <br data-v-9efc35fa=""/>
-                            tiềm năng.
+                            potential products.
                         </p>
                     </li> 
                     <li data-v-9efc35fa="" className="item-row">
@@ -46,10 +46,10 @@ const AboutSolution = () => {
                             <img data-v-9efc35fa="" src="/_nuxt/img/ic-musicnote.59fd4a8.png" alt=""/>
                         </div> 
                         <p data-v-9efc35fa="" className="solution-text">
-                            Tư vấn và định hướng sản phẩm, lựa chọn các yếu tố và phong <br data-v-9efc35fa=""/>
-                            cách phù hợp, đưa ra ý tưởng giúp đối tác nâng cao chất lượng
+                        Consulting and product orientation, choosing appropriate elements and styles, <br data-v-9efc35fa=""/>
+                        giving ideas to help partners improve product quality in accordance
                             <br data-v-9efc35fa=""/>
-                            sản phẩm phù hợp với các chiến lược phát triển.
+                            with development strategies.
                         </p>
                     </li>
                 </ul>

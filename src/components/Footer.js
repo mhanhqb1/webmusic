@@ -16,7 +16,7 @@ const Footer = () => {
                 >
                   <img
                     src="/_nuxt/img/Logo_web.c707601.png"
-                    alt="Terrace Media"
+                    alt="LQ MEDIA"
                     className="footer-logo navbar-brand"
                     data-v-dc8f0f50
                   />
@@ -29,7 +29,7 @@ const Footer = () => {
                     alt="email"
                     data-v-dc8f0f50
                   />
-                  <p data-v-dc8f0f50>asdasd</p>
+                  <p data-v-dc8f0f50>support@lqmedia.vn</p>
                 </span>
               </div>
               <div className="row" data-v-dc8f0f50>
@@ -39,7 +39,7 @@ const Footer = () => {
                     alt="email"
                     data-v-dc8f0f50
                   />
-                  <p data-v-dc8f0f50>asd</p>
+                  <p data-v-dc8f0f50>+84-919.978.560</p>
                 </span>
               </div>
               <div className="row" data-v-dc8f0f50>
@@ -49,7 +49,7 @@ const Footer = () => {
                     alt="email"
                     data-v-dc8f0f50
                   />
-                  <p data-v-dc8f0f50>asd</p>
+                  <p data-v-dc8f0f50>Thanh Vinh, Thanh Trach, Bo Trach, Quang Binh</p>
                 </span>
               </div>
             </div>
@@ -63,17 +63,17 @@ const Footer = () => {
                       className="nav-link nuxt-link-exact-active nuxt-link-active"
                       data-v-dc8f0f50
                     >
-                      Trang chủ
+                      Home
                     </a>
                   </div>
                   <div className="col-4 category" data-v-dc8f0f50>
-                    <a href="/gioi-thieu" className="nav-link" data-v-dc8f0f50>
-                      Giới thiệu
+                    <a href="/about" className="nav-link" data-v-dc8f0f50>
+                      About
                     </a>
                   </div>
                   <div className="col-4 category" data-v-dc8f0f50>
-                    <a href="/dich-vu" className="nav-link" data-v-dc8f0f50>
-                      Dịch vụ
+                    <a href="/services" className="nav-link" data-v-dc8f0f50>
+                      Service
                     </a>
                   </div>
                 </div>
@@ -83,65 +83,38 @@ const Footer = () => {
               <div data-v-dc8f0f50>
                 <div className="row" data-v-dc8f0f50>
                   <div className="col-4 category" data-v-dc8f0f50>
-                    <a href="/quy-trinh" className="nav-link" data-v-dc8f0f50>
-                      Quy trình
+                    <a href="/contact" className="nav-link" data-v-dc8f0f50>
+                      Contact
                     </a>
                   </div>
                   <div className="col-4 category" data-v-dc8f0f50>
-                    <a href="/san-pham" className="nav-link" data-v-dc8f0f50>
-                      Sản phẩm
+                    <a href="/products" className="nav-link" data-v-dc8f0f50>
+                      Products
                     </a>
                   </div>
                   <div className="col-4 category" data-v-dc8f0f50>
-                    <a href="/tin-tuc" className="nav-link" data-v-dc8f0f50>
-                      Tin tức
+                    <a href="/allocation" className="nav-link" data-v-dc8f0f50>
+                      Allocation
                     </a>
                   </div>
+                </div>
+              </div>
+              <div data-v-dc8f0f50>
+                <div className="row" data-v-dc8f0f50>
+                  <div className="col-4 category" data-v-dc8f0f50>
+                    <a href="/artists" className="nav-link" data-v-dc8f0f50>
+                      Artists
+                    </a>
+                  </div>
+                  <div className="col-4 category" data-v-dc8f0f50></div>
+                  <div className="col-4 category" data-v-dc8f0f50></div>
                 </div>
               </div>
               <div data-v-dc8f0f50></div>
               <div data-v-dc8f0f50></div>
               <div data-v-dc8f0f50>
                 <div className="row" data-v-dc8f0f50>
-                  <div className="col-4 category" data-v-dc8f0f50>
-                    <a href="/lien-he" className="nav-link" data-v-dc8f0f50>
-                      Liên hệ
-                    </a>
-                  </div>
-                  <div className="col-4 category" data-v-dc8f0f50>
-                    <a href="/nghe-si" className="nav-link" data-v-dc8f0f50>
-                      Nghệ sĩ
-                    </a>
-                  </div>
-                  <div className="col-4 category" data-v-dc8f0f50>
-                    <a href="/phan-bo" className="nav-link" data-v-dc8f0f50>
-                      Phân bổ
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div data-v-dc8f0f50></div>
-              <div data-v-dc8f0f50></div>
-              <div data-v-dc8f0f50>
-                <div className="row" data-v-dc8f0f50>
-                  <div className="col-4 category" data-v-dc8f0f50>
-                    <a
-                      href="/dieu-khoan-dich-vu"
-                      className="nav-link"
-                      data-v-dc8f0f50
-                    >
-                      Điểu khoản dịch vụ
-                    </a>
-                  </div>
-                  <div className="col-4 category" data-v-dc8f0f50>
-                    <a
-                      href="/chinh-sach-bao-mat"
-                      className="nav-link"
-                      data-v-dc8f0f50
-                    >
-                      Chính sách bảo mật
-                    </a>
-                  </div>
+                  <div className="col-4 category" data-v-dc8f0f50></div>
                   <div className="col-4 category" data-v-dc8f0f50></div>
                 </div>
               </div>
@@ -152,7 +125,7 @@ const Footer = () => {
           <div className="row break-line" data-v-dc8f0f50></div>
           <div className="row signature" data-v-dc8f0f50>
             <div className="col-lg-9 col-md-8 copyright" data-v-dc8f0f50>
-              © 2023 Terrace Media. All Rights Reserved.
+              © Copyright LQ MEDIA.
             </div>
             <div
               className="col-lg-3 col-md-4 col-sm-6 social-network"

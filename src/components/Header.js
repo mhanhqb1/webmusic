@@ -18,7 +18,7 @@ const Header = () => {
             >
               <img
                 src="/_nuxt/img/Logo_web.c707601.png"
-                alt="Terrace Media"
+                alt="LQ MEDIA"
                 className="header-logo navbar-brand"
                 data-v-7d84d4ff
               />
@@ -50,32 +50,32 @@ const Header = () => {
                   className="nav-link nuxt-link-exact-active nuxt-link-active"
                   data-v-7d84d4ff
                 >
-                  Trang chủ
+                  Home
                 </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <Link to="/gioi-thieu" className="nav-link" data-v-7d84d4ff>
-                  Giới thiệu
+                <Link to="/about" className="nav-link" data-v-7d84d4ff>
+                  About
                 </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <Link to="/san-pham" className="nav-link" data-v-7d84d4ff>
-                  Sản phẩm
+                <Link to="/products" className="nav-link" data-v-7d84d4ff>
+                  Products
                 </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <Link to="/nghe-si" className="nav-link" data-v-7d84d4ff>
-                  Nghệ sĩ
+                <Link to="/artists" className="nav-link" data-v-7d84d4ff>
+                  Artists
                 </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <Link to="/dich-vu" className="nav-link" data-v-7d84d4ff>
-                  Dịch vụ
+                <Link to="/services" className="nav-link" data-v-7d84d4ff>
+                  Service
                 </Link>
               </li>
               <li className="nav-item menu-item effect-item" data-v-7d84d4ff>
-                <Link to="/phan-bo" className="nav-link" data-v-7d84d4ff>
-                  Phân bổ
+                <Link to="/allocation" className="nav-link" data-v-7d84d4ff>
+                  Allocation
                 </Link>
               </li>
             </ul>

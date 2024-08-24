@@ -8,7 +8,7 @@ const Platform = () => {
       </div>
       <div className="platform-content" data-v-b7995c84>
         <h2 data-v-b7995c84>
-          Hãy để những sản phẩm âm nhạc của bạn tràn ngập trên các nền tảng
+        Let your music products flood the platforms
         </h2>
       </div>
       <div className="platform-data" data-v-b7995c84></div>
