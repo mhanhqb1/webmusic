@@ -68,7 +68,7 @@ const Footer = () => {
                   </div>
                   <div className="col-4 category" data-v-dc8f0f50>
                     <a href="/about" className="nav-link" data-v-dc8f0f50>
-                      About
+                      Introduce
                     </a>
                   </div>
                   <div className="col-4 category" data-v-dc8f0f50>
@@ -83,11 +83,6 @@ const Footer = () => {
               <div data-v-dc8f0f50>
                 <div className="row" data-v-dc8f0f50>
                   <div className="col-4 category" data-v-dc8f0f50>
-                    <a href="/contact" className="nav-link" data-v-dc8f0f50>
-                      Contact
-                    </a>
-                  </div>
-                  <div className="col-4 category" data-v-dc8f0f50>
                     <a href="/products" className="nav-link" data-v-dc8f0f50>
                       Products
                     </a>
@@ -97,17 +92,11 @@ const Footer = () => {
                       Allocation
                     </a>
                   </div>
-                </div>
-              </div>
-              <div data-v-dc8f0f50>
-                <div className="row" data-v-dc8f0f50>
                   <div className="col-4 category" data-v-dc8f0f50>
                     <a href="/artists" className="nav-link" data-v-dc8f0f50>
                       Artists
                     </a>
                   </div>
-                  <div className="col-4 category" data-v-dc8f0f50></div>
-                  <div className="col-4 category" data-v-dc8f0f50></div>
                 </div>
               </div>
               <div data-v-dc8f0f50></div>
@@ -135,7 +124,7 @@ const Footer = () => {
                 <div className="col social-icon" data-v-dc8f0f50>
                   <span className="col" data-v-dc8f0f50>
                     <a
-                      href="https://www.facebook.com/terracemedia"
+                      href="https://www.facebook.com/LQmedia73"
                       target="_blank"
                       rel="noopener noreferrer"
                       data-v-dc8f0f50
@@ -151,24 +140,7 @@ const Footer = () => {
                 <div className="col social-icon" data-v-dc8f0f50>
                   <span className="col" data-v-dc8f0f50>
                     <a
-                      href="https://instagram.com/terracemedia"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      data-v-dc8f0f50
-                    >
-                      <img
-                        src="/_nuxt/img/bordered-icon-insta.271d714.png"
-                        alt="instagram"
-                        data-v-dc8f0f50
-                      />
-                    </a>
-                  </span>
-                </div>
-
-                <div className="col social-icon" data-v-dc8f0f50>
-                  <span className="col" data-v-dc8f0f50>
-                    <a
-                      href="https://www.youtube.com/@terracemedia"
+                      href="https://www.youtube.com/channel/UCREwXigjpvbv_GYUrd6QVtg"
                       target="_blank"
                       rel="noopener noreferrer"
                       data-v-dc8f0f50
@@ -184,7 +156,7 @@ const Footer = () => {
                 <div className="col social-icon" data-v-dc8f0f50>
                   <span className="col" data-v-dc8f0f50>
                     <a
-                      href="https://www.tiktok.com/@terrace.media"
+                      href="https://www.tiktok.com/@lqmedia.vn"
                       target="_blank"
                       rel="noopener noreferrer"
                       data-v-dc8f0f50
@@ -192,22 +164,6 @@ const Footer = () => {
                       <img
                         src="/_nuxt/img/bordered-icon-tiktok.45eb4a7.png"
                         alt="tiktok"
-                        data-v-dc8f0f50
-                      />
-                    </a>
-                  </span>
-                </div>
-                <div className="col social-icon" data-v-dc8f0f50>
-                  <span className="col" data-v-dc8f0f50>
-                    <a
-                      href="https://twitter.com/terracemedia_co"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      data-v-dc8f0f50
-                    >
-                      <img
-                        src="/_nuxt/img/bordered-icon-twitter.3512785.png"
-                        alt="twitter"
                         data-v-dc8f0f50
                       />
                     </a>
