@@ -175,6 +175,84 @@ export const ARTIST_DATA = [
       },
     ],
   },
+  {
+    id: 9,
+    image: "/img/artists/datr.jpg",
+    name: "ĐẠT R",
+    url: "https://www.facebook.com/datRmix1511",
+    jobs: ["Nghệ sĩ", "Composer", "Singer"],
+    music_list: ["Hiphop", "Rap", "RnB"],
+    socials: [
+      {
+        type: "facebook",
+        url: "https://www.facebook.com/datRmix1511",
+      },
+    ],
+  },
+  {
+    id: 10,
+    image: "/img/artists/lqremix.jpg",
+    name: "LQ REMIX",
+    url: "https://www.facebook.com/LQmedia73",
+    jobs: ["Nghệ sĩ", "Composer", "Singer"],
+    music_list: ["Hiphop", "Rap", "RnB"],
+    socials: [
+      {
+        type: "facebook",
+        url: "https://www.facebook.com/LQmedia73",
+      },
+    ],
+  },
+  {
+    id: 11,
+    image: "/img/artists/nhatdoan.jpg",
+    name: "NHẬT ĐOÀN",
+    url: "https://www.facebook.com/nhatqud",
+    jobs: ["Nghệ sĩ", "Composer", "Singer"],
+    music_list: ["Hiphop", "Rap", "RnB"],
+    socials: [
+      {
+        type: "facebook",
+        url: "https://www.facebook.com/nhatqud",
+      },
+    ],
+  },
+  {
+    id: 12,
+    image: "/img/artists/phongle.jpg",
+    name: "PHONG LÊ",
+    url: "https://www.facebook.com/phongle241201",
+    jobs: ["Nghệ sĩ", "Composer", "Singer"],
+    music_list: ["Hiphop", "Rap", "RnB"],
+    socials: [
+      {
+        type: "facebook",
+        url: "https://www.facebook.com/phongle241201",
+      },
+    ],
+  },  
+  {
+    id: 13,
+    image: "/img/artists/quyenquyen.jfif",
+    name: "QUYÊN QUYÊN",
+    url: "https://www.facebook.com/QuyenQuyenMC",
+    jobs: ["Nghệ sĩ", "Composer", "Singer"],
+    music_list: ["Hiphop", "Rap", "RnB"],
+    socials: [
+      {
+        type: "facebook",
+        url: "https://www.facebook.com/QuyenQuyenMC",
+      },
+      {
+        type: "youtube",
+        url: "https://www.youtube.com/@quyenquyen.official",
+      },
+      {
+        type: "tiktok",
+        url: "https://www.tiktok.com/@mcquyenquyen",
+      },
+    ],
+  },
 ];
 export const ARTIST_TOP_DATA = [
   {
