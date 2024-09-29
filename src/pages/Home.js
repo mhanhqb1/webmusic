@@ -10,6 +10,23 @@ import Landing from "../components/home/Landing";
 const Home = () => {
   return (
     <div className="main-component">
+      <div className="data-api-container" style={{ "margin-top": "90px" }}>
+        <div className="artist-container">
+          <div className="content-container">
+            <div className="agile agile--ssr agile--auto-play agile--no-nav-buttons">
+              <div className="agile__list">
+                <div
+                  className="agile__track"
+                >
+                  <div className="agile__slides agile__slides--regular">
+                    <ArtistSlider />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
       <Landing />
       <Platform />
       <div className="vision-container" data-v-6c5bed7c>
@@ -172,24 +189,6 @@ const Home = () => {
       </div>
       <Partner />
       <div className="data-api-container">
-        <div className="artist-container">
-          <div className="title-container">
-            <h2>Featured artists</h2>
-          </div>
-          <div className="content-container">
-            <div className="agile agile--ssr agile--auto-play agile--no-nav-buttons">
-              <div className="agile__list">
-                <div
-                  className="agile__track"
-                >
-                  <div className="agile__slides agile__slides--regular">
-                    <ArtistSlider />
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
         <div className="music-container">
           <div className="title-container">
             <h2>Featured products</h2>
