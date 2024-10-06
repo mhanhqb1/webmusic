@@ -48,11 +48,11 @@ const AboutRelease = () => {
                         <div className="flickity-slider" style={{ left: "0px", transform: "translate3d(-487.91%, 0px, 0px)"}}>
                             <div data-v-15499593="" className="carousel-cell" style={{position: "absolute", left: "0px", transform: "translateX(0%)"}} aria-hidden="true">
                                 <div data-v-15499593="" className="carousel-img">
-                                    <img data-v-15499593="" src="https://admin.terracemedia.co/storage/app/media/platform/Spotify.png" alt=""/>
+                                    <img data-v-15499593="" src="/img/platform/Spotify.png" alt=""/>
                                 </div>
                             </div>
                             <div data-v-15499593="" className="carousel-img">
-                                <img data-v-15499593="" src="https://admin.terracemedia.co/storage/app/media/platform/siriusxm.png" alt=""/>
+                                <img data-v-15499593="" src="/img/platform/siriusxm.png" alt=""/>
                             </div>
                         </div>
                     </div>

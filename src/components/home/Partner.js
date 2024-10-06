@@ -17,7 +17,7 @@ const Partner = () => {
                     <div className="col" data-v-7c653112>
                     <a href="https://sonosuite.com" data-v-7c653112>
                         <img
-                        src="https://admin.terracemedia.co/storage/app/media/partner/sono.png"
+                        src="/img/partner/sono.png"
                         alt="Sonosuite"
                         data-v-7c653112
                         />
@@ -26,7 +26,7 @@ const Partner = () => {
                     <div className="col" data-v-7c653112>
                     <a href="https://www.ascap.com" data-v-7c653112>
                         <img
-                        src="https://admin.terracemedia.co/storage/app/media/partner/ascap.png"
+                        src="/img/partner/ascap.png"
                         alt="ASCAP"
                         data-v-7c653112
                         />
@@ -35,7 +35,7 @@ const Partner = () => {
                     <div className="col" data-v-7c653112>
                     <a href="https://www.linkfire.com" data-v-7c653112>
                         <img
-                        src="https://admin.terracemedia.co/storage/app/media/partner/linkfire.png"
+                        src="/img/partner/linkfire.png"
                         alt="Linkfire"
                         data-v-7c653112
                         />
@@ -44,7 +44,7 @@ const Partner = () => {
                     <div className="col" data-v-7c653112>
                     <a href="https://www.musixmatch.com" data-v-7c653112>
                         <img
-                        src="https://admin.terracemedia.co/storage/app/media/partner/musixmatch.png"
+                        src="/img/partner/musixmatch.png"
                         alt="Musixmatch"
                         data-v-7c653112
                         />
@@ -53,7 +53,7 @@ const Partner = () => {
                     <div className="col" data-v-7c653112>
                     <a href="https://songstats.com" data-v-7c653112>
                         <img
-                        src="https://admin.terracemedia.co/storage/app/media/partner/songstats.png"
+                        src="/img/partner/songstats.png"
                         alt="Songstats"
                         data-v-7c653112
                         />
@@ -62,7 +62,7 @@ const Partner = () => {
                     <div className="col" data-v-7c653112>
                     <a href="https://amis.misa.vn/amis-wesign" data-v-7c653112>
                         <img
-                        src="https://admin.terracemedia.co/storage/app/media/partner/amis wesign.png"
+                        src="/img/partner/amis wesign.png"
                         alt="AMIS WeSign"
                         data-v-7c653112
                         />
@@ -71,7 +71,7 @@ const Partner = () => {
                     <div className="col" data-v-7c653112>
                     <a href="https://zingmp3.vn" data-v-7c653112>
                         <img
-                        src="https://admin.terracemedia.co/storage/app/media/partner/zing mp3.png"
+                        src="/img/partner/zing mp3.png"
                         alt="Zing Mp3"
                         data-v-7c653112
                         />
@@ -80,7 +80,7 @@ const Partner = () => {
                     <div className="col" data-v-7c653112>
                     <a href="https://www.nhaccuatui.com" data-v-7c653112>
                         <img
-                        src="https://admin.terracemedia.co/storage/app/media/partner/nct.png"
+                        src="/img/partner/nct.png"
                         alt="Nhaccuatui"
                         data-v-7c653112
                         />
@@ -89,7 +89,7 @@ const Partner = () => {
                     <div className="col" data-v-7c653112>
                     <a href="https://www.vcpmc.org" data-v-7c653112>
                         <img
-                        src="https://admin.terracemedia.co/storage/app/media/partner/vcpmc.png"
+                        src="/img/partner/vcpmc.png"
                         alt="VCPMC"
                         data-v-7c653112
                         />

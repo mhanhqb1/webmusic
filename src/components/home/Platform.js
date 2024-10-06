@@ -20,7 +20,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/Spotify.png"
+                src="/img/platform/Spotify.png"
                 alt="Spotify"
                 data-v-b7995c84
               />
@@ -29,7 +29,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/Apple Music.png"
+                src="/img/platform/Apple Music.png"
                 alt="Apple Music"
                 data-v-b7995c84
               />
@@ -38,7 +38,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/Fb.png"
+                src="/img/platform/Fb.png"
                 alt="Facebook"
                 data-v-b7995c84
               />
@@ -47,7 +47,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/insta.png"
+                src="/img/platform/insta.png"
                 alt="Instagram"
                 data-v-b7995c84
               />
@@ -56,7 +56,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/Tiktok.png"
+                src="/img/platform/Tiktok.png"
                 alt="Tiktok"
                 data-v-b7995c84
               />
@@ -65,7 +65,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/Youtube.png"
+                src="/img/platform/Youtube.png"
                 alt="Youtube Music"
                 data-v-b7995c84
               />
@@ -74,7 +74,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/Zing Mp3.png"
+                src="/img/platform/Zing Mp3.png"
                 alt="Zing Mp3"
                 data-v-b7995c84
               />
@@ -83,7 +83,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/NCT.png"
+                src="/img/platform/NCT.png"
                 alt="Nhaccuatui"
                 data-v-b7995c84
               />
@@ -92,7 +92,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/Youtube 2.png"
+                src="/img/platform/Youtube 2.png"
                 alt="Youtube"
                 data-v-b7995c84
               />
@@ -101,7 +101,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/tiktok music.png"
+                src="/img/platform/tiktok music.png"
                 alt="Tiktok Music"
                 data-v-b7995c84
               />
@@ -110,7 +110,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/anghami.png"
+                src="/img/platform/anghami.png"
                 alt="Anghami"
                 data-v-b7995c84
               />
@@ -119,7 +119,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/audiomack.png"
+                src="/img/platform/audiomack.png"
                 alt="Audiomack"
                 data-v-b7995c84
               />
@@ -128,7 +128,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/netease.png"
+                src="/img/platform/netease.png"
                 alt="NetEase"
                 data-v-b7995c84
               />
@@ -137,7 +137,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/Amazon music.png"
+                src="/img/platform/Amazon music.png"
                 alt="Amazon Music"
                 data-v-b7995c84
               />
@@ -146,7 +146,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/awa.png"
+                src="/img/platform/awa.png"
                 alt="Awa"
                 data-v-b7995c84
               />
@@ -155,7 +155,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/Boomplay.png"
+                src="/img/platform/Boomplay.png"
                 alt="Boomplay"
                 data-v-b7995c84
               />
@@ -164,7 +164,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/iheartradio.png"
+                src="/img/platform/iheartradio.png"
                 alt="IheartRadio"
                 data-v-b7995c84
               />
@@ -173,7 +173,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/lickd.png"
+                src="/img/platform/lickd.png"
                 alt="Lickd"
                 data-v-b7995c84
               />
@@ -182,7 +182,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/deezer.png"
+                src="/img/platform/deezer.png"
                 alt="Deezer"
                 data-v-b7995c84
               />
@@ -191,7 +191,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/kkbox.png"
+                src="/img/platform/kkbox.png"
                 alt="Kkbox"
                 data-v-b7995c84
               />
@@ -200,7 +200,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/joox.png"
+                src="/img/platform/joox.png"
                 alt="Joox"
                 data-v-b7995c84
               />
@@ -209,7 +209,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/mixcloud.png"
+                src="/img/platform/mixcloud.png"
                 alt="Mixcloud"
                 data-v-b7995c84
               />
@@ -218,7 +218,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/nuuday.png"
+                src="/img/platform/nuuday.png"
                 alt="Nuuday"
                 data-v-b7995c84
               />
@@ -227,7 +227,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/napster.png"
+                src="/img/platform/napster.png"
                 alt="Napster"
                 data-v-b7995c84
               />
@@ -236,7 +236,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/tidal.png"
+                src="/img/platform/tidal.png"
                 alt="Tidal"
                 data-v-b7995c84
               />
@@ -245,7 +245,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/pandora.png"
+                src="/img/platform/pandora.png"
                 alt="Pandora"
                 data-v-b7995c84
               />
@@ -254,7 +254,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/soundcloud.png"
+                src="/img/platform/soundcloud.png"
                 alt="Soundcloud"
                 data-v-b7995c84
               />
@@ -263,7 +263,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/resso.png"
+                src="/img/platform/resso.png"
                 alt="Resso"
                 data-v-b7995c84
               />
@@ -272,7 +272,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/rhapsody.png"
+                src="/img/platform/rhapsody.png"
                 alt="Rhapsody"
                 data-v-b7995c84
               />
@@ -281,7 +281,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/Snap.png"
+                src="/img/platform/Snap.png"
                 alt="Snap"
                 data-v-b7995c84
               />
@@ -290,7 +290,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/jiosaavn.png"
+                src="/img/platform/jiosaavn.png"
                 alt="JioSaavn"
                 data-v-b7995c84
               />
@@ -299,7 +299,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/itune.png"
+                src="/img/platform/itune.png"
                 alt="Itunes"
                 data-v-b7995c84
               />
@@ -308,7 +308,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/peloton.png"
+                src="/img/platform/peloton.png"
                 alt="Peloton"
                 data-v-b7995c84
               />
@@ -317,7 +317,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/claromusic.png"
+                src="/img/platform/claromusic.png"
                 alt="Claro musica"
                 data-v-b7995c84
               />
@@ -326,7 +326,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/tencent.png"
+                src="/img/platform/tencent.png"
                 alt="Tencent"
                 data-v-b7995c84
               />
@@ -335,7 +335,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/7digital.png"
+                src="/img/platform/7digital.png"
                 alt="7digital"
                 data-v-b7995c84
               />
@@ -344,7 +344,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/kanijan.png"
+                src="/img/platform/kanijan.png"
                 alt="Kanjian"
                 data-v-b7995c84
               />
@@ -353,7 +353,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/audiblemagic.png"
+                src="/img/platform/audiblemagic.png"
                 alt="Audible Magic"
                 data-v-b7995c84
               />
@@ -362,7 +362,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/imusica.png"
+                src="/img/platform/imusica.png"
                 alt="Imusica"
                 data-v-b7995c84
               />
@@ -371,7 +371,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/jaxsta.png"
+                src="/img/platform/jaxsta.png"
                 alt="Jaxsta"
                 data-v-b7995c84
               />
@@ -380,7 +380,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/qobuz.png"
+                src="/img/platform/qobuz.png"
                 alt="Qobuz"
                 data-v-b7995c84
               />
@@ -389,7 +389,7 @@ const Platform = () => {
           <div className="col" data-v-b7995c84>
             <div className="p-3" data-v-b7995c84>
               <img
-                src="https://admin.terracemedia.co/storage/app/media/platform/siriusxm.png"
+                src="/img/platform/siriusxm.png"
                 alt="Siriusxm"
                 data-v-b7995c84
               />
