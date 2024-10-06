@@ -1,10 +1,16 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import Platform from "../components/home/Platform";
 import Partner from '../components/home/Partner';
 import ContactForm from '../components/home/ContactForm';
 import Process from '../components/home/Process';
 
 const Location = () => {
+  const location = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location]);
   return (
     <div className="main-component">
       <div data-v-67672252="" class="landing-container">

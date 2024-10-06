@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import ArtistSlider from '../components/home/ArtistSlider';
 import Platform from '../components/home/Platform';
 import Partner from '../components/home/Partner';
@@ -6,6 +7,11 @@ import ContactForm from '../components/home/ContactForm';
 import ArtistList from '../components/artists/ArtistList';
 
 const Artist = () => {
+  const location = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location]);
   return (
     <div className="artist-wrap-container main-component">
       <div data-v-2f699686="" className="slider">

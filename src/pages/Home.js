@@ -1,4 +1,5 @@
-import React from "react";
+import React, { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import MusicSlider from "../components/home/MusicSlider";
 import ArtistSlider from "../components/home/ArtistSlider";
 import Platform from "../components/home/Platform";
@@ -8,6 +9,11 @@ import Process from "../components/home/Process";
 import Landing from "../components/home/Landing";
 
 const Home = () => {
+  const location = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location]);
   return (
     <div className="main-component">
       <div className="data-api-container" style={{ "margin-top": "90px" }}>

@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import AboutInformation from "../components/about/AboutInformation";
 import AboutRelease from "../components/about/AboutRelease";
 import AboutTechnology from "../components/about/AboutTechnology";
@@ -8,6 +9,11 @@ import Partner from "../components/home/Partner";
 import ContactForm from "../components/home/ContactForm";
 
 const About = () => {
+  const location = useLocation();
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [location]);
   return (
     <div className="introduce-container main-component" data-v-6192361e="">
       <AboutInformation />
